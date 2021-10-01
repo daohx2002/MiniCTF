@@ -12,4 +12,4 @@ __Sau đó ta được flag như hình__
 ![image](https://user-images.githubusercontent.com/86923385/135553629-6d833a5a-dbe6-4139-9907-6b7eed909c42.png)
 
 
-__Flag: ISPCLUB{4_GOOD_PL4Y3R}
+__Flag: ISPCLUB{4_GOOD_PL4Y3R}__
